@@ -1,6 +1,7 @@
 Online Campaign Analysis (SQL, PostgreSQL)
 
 Task: 
+
 1.Built a query to calculate daily aggregated metrics (average, maximum, and minimum spend) separately for Google and Facebook, combined in a single table.
 
 2.Identified the top 5 days by total ROMI, based on combined data from both platforms, sorted in descending order.
