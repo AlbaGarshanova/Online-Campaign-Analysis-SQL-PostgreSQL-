@@ -10,6 +10,6 @@ Task:
 
 4.Found the campaign with the largest month-over-month reach growth, calculated as the absolute difference between current and previous month.
 
-5. Wrote a query to return the longest continuous daily run of an ad set (adset_name), including its duration.
+
 
 📁 Datasets are included in the repository.
